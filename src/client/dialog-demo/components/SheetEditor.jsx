@@ -37,12 +37,12 @@ const SheetEditor = () => {
   return (
     <div>
       <p>
-        <b>☀️ React demo! ☀️</b>
+        <b>☀️ 이거슨 리액트 데모랑게!! This is React demo! ☀️</b>
       </p>
       <p>
         This is a sample page that demonstrates a simple React app. Enter a name
         for a new sheet, hit enter and the new sheet will be created. Click the
-        red &times; next to the sheet name to delete it.
+        red &times; next to the sheet name to delete it. 
       </p>
       <FormInput submitNewSheet={submitNewSheet} />
       <TransitionGroup className="sheet-list">

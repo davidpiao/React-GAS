@@ -34,10 +34,10 @@ const SheetEditor = () => {
   return (
     <div style={{ padding: '3px', overflowX: 'hidden' }}>
       <p>
-        <b>☀️ Bootstrap demo! ☀️</b>
+        <b>☀️ 이거슨 부트스트랩 데모요! ☀️</b>
       </p>
       <p>
-        This is a sample app that uses the <code>react-bootstrap</code> library
+        이거슨 샘플 앱으로 부트스트랩을 사용한디요. This is a sample app that uses the <code>react-bootstrap</code> library
         to help us build a simple React app. Enter a name for a new sheet, hit
         enter and the new sheet will be created. Click the red{' '}
         <span className="text-danger">&times;</span> next to the sheet name to
